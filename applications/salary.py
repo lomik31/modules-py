@@ -1,0 +1,1 @@
+def calculate_salary(): return "some salary"
